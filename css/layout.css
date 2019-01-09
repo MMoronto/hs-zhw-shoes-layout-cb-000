@@ -62,9 +62,9 @@ clearfix:after {
 [class*="col-"] {
   margin-left: 2%;
   margin-bottom: 2%;
-  float: left;
 }
 
 .first {
   margin-left: 0%;
+  float: left;
 }
