@@ -46,14 +46,14 @@
   background: #fff;
 }
 
-/*clearfix:after {
+clearfix:after {
   content: ".";
   display: block;
   clear: both;
   visibility: hidden;
   height: 0;
   line-height: 0;
-}*/
+}
 
 .clear {
   clear: both;
