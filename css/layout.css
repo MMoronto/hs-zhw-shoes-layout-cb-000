@@ -32,7 +32,7 @@
 
 .col-1 {
   float: left;
-  width: 33%;
+  width: 32%;
   background: #ccc;
 }
 
@@ -43,8 +43,9 @@
 }
 
 .col-3 {
-  float: left;
-  width: 100%;
   background: #ccc;
 }
 
+[class*="col-"] {
+  margin-left: 2%;
+}
