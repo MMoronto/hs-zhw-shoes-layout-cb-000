@@ -60,9 +60,9 @@ clearfix:after {
 }
 
 [class*="col-"] {
-  margin-left: 2%;
+  margin-left: 1.5%;
 }
 
 .first {
-  margin-left: 1%;
+  margin-left: 0%;
 }
