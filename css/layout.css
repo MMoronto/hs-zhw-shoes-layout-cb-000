@@ -36,3 +36,15 @@
   background: #ccc;
 }
 
+.col-2 {
+  float: left;
+  width: 33%;
+  background: #ccc;
+}
+
+.col-3 {
+  float: left;
+  width: 33%;
+  background: #ccc;
+}
+
